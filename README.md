@@ -1,4 +1,4 @@
-# pong_naruto-vs-sasuke
+## What is this?
 
 Simple Pong Game where Naruto yells DATTEMAYO! and SASUKE! on random when he hits the ball
 
